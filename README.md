@@ -1,7 +1,7 @@
 Sankage's Tech Library
 ======================
 
-This is a listing of books I own that relate to Programming and Development.
+This is a listing of books (dead tree) I own that relate to Programming and Development.
 
 ## Organization
 
