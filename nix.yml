@@ -1,5 +1,5 @@
-name: Server Books
-description: These are books relating to the server.
+name: Unix/Linux Books
+description: These are books relating to the Unix/Linux and the servers they power.
 books:
 - title: The Official Ubuntu Server Book
   author: Kyle Rankin & Benjamin Mako Hill
@@ -10,4 +10,8 @@ books:
   author: Evi Nemeth & Garth Snyder & Trent R. Hein & Ben Whaley
   isbn13: 9780131480056
   isbn10: 0131480057
+  location: home
+- title: Working with Unix
+  author: Kaushal Thakker & Ramesh Mirchandani & Kiran Dattani & Ashish Malani
+  isbn10: 8170293367
   location: home
