@@ -1,3 +1,30 @@
 name:        PHP Books
 description: These are books that relate to the PHP programming language.
 books:
+- title:    Learning PHP Data Objects
+  author:   Dennis Popel
+  isbn13:   '9781847192660'
+  location: work
+- title:    Practical CakePHP Projects
+  author:   [Kai Chan, John Omokore]
+  isbn13:   '9781430215783'
+  location: work
+- title:    Pro PHP and jQuery
+  author:   Jason Lengstorf
+  isbn13:   '9781430228479'
+  location: work
+- title:    Sams Teach Yourself PHP, MySQL and Apache All in One
+  edition:  3
+  author:   Julie C. Meloni
+  isbn10:   '0672328739'
+  location: work
+- title:    PHP for the World Wide Web
+  edition:  2
+  author:   Larry Ullman
+  isbn10:   '0321245652'
+  location: work
+- title:    PHP 5 Advanced
+  author:   Larry Ullman
+  isbn13:   '9780321376015'
+  isbn10:   '0321376013'
+  location: work

@@ -5,3 +5,7 @@ books:
   author:   Peter Harrington
   isbn13:   '9781617290183'
   location: home
+- title:    Algorithms in a Nutshell
+  author:   [George T. Heineman, Gary Pollice, Stanley Selkow]
+  isbn13:   '9780596516246'
+  location: work

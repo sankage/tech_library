@@ -22,3 +22,7 @@ books:
   author:   [Baron Schwartz, Peter Zaitsev, Vadim Tkachenko, Jeremy D. Zawodny, Arjen Lentz, Derek J. Balling]
   isbn13:   '9780596101718'
   location: work
+- title:    MongoDB: The Definitive Guide
+  author:   [Kristina Chodorow, Michael Dirolf]
+  isbn13:   '9781449381561'
+  location: work

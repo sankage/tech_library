@@ -15,3 +15,13 @@ books:
   author:   [Kaushal Thakker, Ramesh Mirchandani, Kiran Dattani, Ashish Malani]
   isbn10:   '8170293367'
   location: home
+- title:    Apache 2 Pocket Reference
+  author:   Andrew Ford
+  isbn13:   '9780596518882'
+  location: work
+- title:    Nagios
+  edition:  2
+  author:   Wolfgang barth
+  isbn13:   '9781593271794'
+  isbn10:   '1593271794'
+  location: work

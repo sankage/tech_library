@@ -10,3 +10,7 @@ books:
   author:   Dan Cederholm
   isbn13:   '9780984442522'
   location: work
+- title:    Smashing CSS
+  author:   Eric A. Meyer
+  isbn13:   '9780470684160'
+  location: work
