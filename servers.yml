@@ -1,0 +1,13 @@
+name: Server Books
+description: These are books relating to the server.
+books:
+- title: The Official Ubuntu Server Book
+  author: Kyle Rankin & Benjamin Mako Hill
+  isbn13: 9780137081332
+  isbn10: 0137081332
+  location: home
+- title: Unix and Linux System Administration Handbook
+  author: Evi Nemeth & Garth Snyder & Trent R. Hein & Ben Whaley
+  isbn13: 9780131480056
+  isbn10: 0131480057
+  location: home
