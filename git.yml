@@ -1,7 +1,7 @@
-name: git Books
+name:        git Books
 description: These are books about the git version control system.
 books:
-- title: Pro Git
-  author: Scott Chacon
-  isbn13: '9781430218333'
+- title:    Pro Git
+  author:   Scott Chacon
+  isbn13:   '9781430218333'
   location: home

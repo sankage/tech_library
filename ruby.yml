@@ -1,17 +1,17 @@
-name: Ruby/Rails Books
+name:        Ruby/Rails Books
 description: These are books about the Ruby Programming language and the Rails framework.
 books:
-- title: The Rails 3 Way
-  author: Obie Fernandez
-  isbn13: '9780321601667'
-  isbn10: '0321601661'
+- title:    The Rails 3 Way
+  author:   Obie Fernandez
+  isbn13:   '9780321601667'
+  isbn10:   '0321601661'
   location: home
-- title: The Ruby Programming Language
-  author: [David Flanagan, Yukihiro Matsumoto]
-  isbn13: '9780596516178'
+- title:    The Ruby Programming Language
+  author:   [David Flanagan, Yukihiro Matsumoto]
+  isbn13:   '9780596516178'
   location: home
-- title: Eloquent Ruby
-  author: Russ Olsen
-  isbn13: '9780321584106'
-  isbn10: '0321584104'
+- title:    Eloquent Ruby
+  author:   Russ Olsen
+  isbn13:   '9780321584106'
+  isbn10:   '0321584104'
   location: home
