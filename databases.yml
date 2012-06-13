@@ -9,3 +9,16 @@ books:
   author:   Gregory Smith
   isbn13:   '9781849510301'
   location: home
+- title:    SQL Antipatterns
+  author:   Bill Karwin
+  isbn13:   '9781934356555'
+  isbn10:   '1934356557'
+  location: work
+- title:    MySQL Stored Procedure Programming
+  author:   [Guy Harrison, Steven Feuerstein]
+  isbn13:   '9780596100896'
+  location: work
+- title:    High Performance MySQL
+  author:   [Baron Schwartz, Peter Zaitsev, Vadim Tkachenko, Jeremy D. Zawodny, Arjen Lentz, Derek J. Balling]
+  isbn13:   '9780596101718'
+  location: work

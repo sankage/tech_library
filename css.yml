@@ -6,3 +6,7 @@ books:
   isbn13:   '9780321732279'
   isbn10:   '0321732278'
   location: home
+- title:    CSS3 for Web Designers
+  author:   Dan Cederholm
+  isbn13:   '9780984442522'
+  location: work

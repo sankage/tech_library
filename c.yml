@@ -1,0 +1,7 @@
+name:        C/C++ Books
+description: These are books dealing with C and C++ programming languages.
+books:
+- title:    C++ Primer Plus
+  author:   Stephen Prata
+  isbn10:   '0672326973'
+  location: home

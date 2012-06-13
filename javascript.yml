@@ -9,3 +9,15 @@ books:
   author:   Alex MacCaw
   isbn13:   '9781449303518'
   location: home
+- title:    High Performance JavaScript
+  author:   Nicholas C. Zakas
+  isbn13:   '9780596802790'
+  location: work
+- title:    JavaScript Patterns
+  author:   Stoyan Stefanov
+  isbn13:   '9780596806750'
+  location: work
+- title:    jQuery Cookbook
+  author:   jQuery Community Experts
+  isbn13:   '9780596159771'
+  location: work
