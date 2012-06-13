@@ -3,15 +3,15 @@ description: These are books relating to the Unix/Linux and the servers they pow
 books:
 - title: The Official Ubuntu Server Book
   author: Kyle Rankin & Benjamin Mako Hill
-  isbn13: 9780137081332
-  isbn10: 0137081332
+  isbn13: '9780137081332'
+  isbn10: '0137081332'
   location: home
 - title: Unix and Linux System Administration Handbook
   author: Evi Nemeth & Garth Snyder & Trent R. Hein & Ben Whaley
-  isbn13: 9780131480056
-  isbn10: 0131480057
+  isbn13: '9780131480056'
+  isbn10: '0131480057'
   location: home
 - title: Working with Unix
   author: Kaushal Thakker & Ramesh Mirchandani & Kiran Dattani & Ashish Malani
-  isbn10: 8170293367
+  isbn10: '8170293367'
   location: home

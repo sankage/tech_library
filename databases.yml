@@ -3,9 +3,9 @@ description: These are books that pertain to various databases.
 books:
 - title: MongoDB in Action
   author: Kyle Banker
-  isbn13: 9781935182870
+  isbn13: '9781935182870'
   location: home
 - title: PostgreSQL 9.0 High Performance
   author: Gregory Smith
-  isbn13: 9781849510301
+  isbn13: '9781849510301'
   location: home

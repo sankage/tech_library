@@ -3,6 +3,6 @@ description: These are books about Cascading Style Sheets (CSS).
 books:
 - title: The CSS Pocket Guide
   author: Chris Casciano
-  isbn13: 9780321732279
-  isbn10: 0321732278
+  isbn13: '9780321732279'
+  isbn10: '0321732278'
   location: home

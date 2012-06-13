@@ -3,9 +3,9 @@ description: These are books relating to the Javascript programming language
 books:
 - title: JavaScript: The Good Parts
   author: Douglas Crockford
-  isbn13: 9780596517748
+  isbn13: '9780596517748'
   location: home
 - title: JavaScript Web Applications
   author: Alex MacCaw
-  isbn13: 9781449303518
+  isbn13: '9781449303518'
   location: home
