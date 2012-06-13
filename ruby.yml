@@ -7,7 +7,7 @@ books:
   isbn10: '0321601661'
   location: home
 - title: The Ruby Programming Language
-  author: David Flanagan & Yukihiro Matsumoto
+  author: [David Flanagan, Yukihiro Matsumoto]
   isbn13: '9780596516178'
   location: home
 - title: Eloquent Ruby

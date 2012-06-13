@@ -2,7 +2,7 @@ name: General Programming Books
 description: These are books that cover multiple languages and disciplines for programming.
 books:
 - title: The Pragmatic Programmer
-  author: Andrew Hunt & David Thomas
+  author: [Andrew Hunt, David Thomas]
   isbn10: '020161622X'
   location: home
 - title: RESTful Web Services Cookbook
@@ -10,7 +10,7 @@ books:
   isbn13: '9780596201687'
   location: home
 - title: Gamification by Design
-  author: Gabe Zichermann & Christopher Cunningham
+  author: [Gabe Zichermann, Christopher Cunningham]
   isbn13: '9781449397678'
   location: home
 - title: Visualize This
