@@ -16,7 +16,7 @@ books:
 - title:    JavaScript Patterns
   author:   Stoyan Stefanov
   isbn13:   '9780596806750'
-  location: work
+  location: home
 - title:    jQuery Cookbook
   author:   jQuery Community Experts
   isbn13:   '9780596159771'
