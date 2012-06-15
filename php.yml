@@ -16,11 +16,13 @@ books:
 - title:    Sams Teach Yourself PHP, MySQL and Apache All in One
   edition:  3
   author:   Julie C. Meloni
+  isbn13:   '9780672328732'
   isbn10:   '0672328739'
   location: work
 - title:    PHP for the World Wide Web
   edition:  2
   author:   Larry Ullman
+  isbn13:   '9780321245656'
   isbn10:   '0321245652'
   location: work
 - title:    PHP 5 Advanced

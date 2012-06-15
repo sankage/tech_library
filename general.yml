@@ -3,6 +3,7 @@ description: These are books that cover multiple languages and disciplines for p
 books:
 - title:    The Pragmatic Programmer
   author:   [Andrew Hunt, David Thomas]
+  isbn13:   '9780201616224'
   isbn10:   '020161622X'
   location: home
 - title:    RESTful Web Services Cookbook
