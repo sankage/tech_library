@@ -15,3 +15,9 @@ books:
   isbn13:   '9780321584106'
   isbn10:   '0321584104'
   location: home
+- title:    Ruby on Rails 3 Tutorial
+  author:   Michael Hartl
+  edition:  1
+  isbn13:   '9780321743121'
+  isbn10:   '0321743121'
+  location: work
