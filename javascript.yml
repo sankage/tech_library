@@ -26,3 +26,8 @@ books:
   isbn13:   '9780321683915'
   isbn10:   '0321683919'
   location: work
+- title:    Programming in CoffeeScript
+  author:   Mark Bates
+  isbn13:   '9780321820105'
+  isbn10:   '032182010X'
+  location: home
