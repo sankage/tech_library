@@ -21,3 +21,11 @@ books:
   isbn13:   '9780321743121'
   isbn10:   '0321743121'
   location: home
+- title:    The Rails View
+  author:   [John Athayde, Bruce Williams]
+  isbn13:   '9781934956876'
+  location: home
+- title:    The Cucumber Book
+  author:   [Matt Wynne, Aslak Hellesøy]
+  isbn13:   '9781934356807'
+  location: home
