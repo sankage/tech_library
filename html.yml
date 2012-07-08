@@ -9,9 +9,9 @@ books:
   edition:  1
   isbn13:   '9780321687296'
   isbn10:   '0321687299'
-  location: work
+  location: home
 - title:    Introducing HTML5
   edition:  2
   isbn13:   '9780321784421'
   isbn10:   '0321784421'
-  location: work
+  location: home

@@ -4,15 +4,15 @@ books:
 - title:    Learning PHP Data Objects
   author:   Dennis Popel
   isbn13:   '9781847192660'
-  location: work
+  location: home
 - title:    Practical CakePHP Projects
   author:   [Kai Chan, John Omokore]
   isbn13:   '9781430215783'
-  location: work
+  location: home
 - title:    Pro PHP and jQuery
   author:   Jason Lengstorf
   isbn13:   '9781430228479'
-  location: work
+  location: home
 - title:    Sams Teach Yourself PHP, MySQL and Apache All in One
   edition:  3
   author:   Julie C. Meloni
