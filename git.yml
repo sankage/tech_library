@@ -4,4 +4,4 @@ books:
 - title:    Pro Git
   author:   Scott Chacon
   isbn13:   '9781430218333'
-  location: home
+  location: work
