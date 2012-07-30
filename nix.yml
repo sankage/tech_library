@@ -21,7 +21,7 @@ books:
   location: work
 - title:    Nagios
   edition:  2
-  author:   Wolfgang barth
+  author:   Wolfgang Barth
   isbn13:   '9781593271794'
   isbn10:   '1593271794'
   location: home
