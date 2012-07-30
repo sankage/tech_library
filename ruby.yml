@@ -28,4 +28,8 @@ books:
 - title:    The Cucumber Book
   author:   [Matt Wynne, Aslak Hellesøy]
   isbn13:   '9781934356807'
-  location: home
+  location: home- title:    Rails Antipatterns
+  author:   [Chad Pytel, Tammer Saleh]
+  isbn13:   '9780321604811'
+  isbn10:   '0321604814'
+  location: work
