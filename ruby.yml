@@ -34,3 +34,8 @@ books:
   isbn13:   '9780321604811'
   isbn10:   '0321604814'
   location: work
+- title:    Practical Object-Oriented Design in Ruby
+  author:   Sandi Metz
+  isbn13:   '9780321721334'
+  isbn10:   '0321721330'
+  location: home
