@@ -4,30 +4,34 @@ books:
 - title:    JavaScript: The Good Parts
   author:   Douglas Crockford
   isbn13:   '9780596517748'
-  location: work
+  location: home
 - title:    JavaScript Web Applications
   author:   Alex MacCaw
   isbn13:   '9781449303518'
-  location: work
+  location: home
 - title:    High Performance JavaScript
   author:   Nicholas C. Zakas
   isbn13:   '9780596802790'
-  location: work
+  location: home
 - title:    JavaScript Patterns
   author:   Stoyan Stefanov
   isbn13:   '9780596806750'
-  location: work
+  location: home
 - title:    jQuery Cookbook
   author:   jQuery Community Experts
   isbn13:   '9780596159771'
-  location: work
+  location: home
 - title:    Test-Driven JavaScript Development
   author:   Christian Johansen
   isbn13:   '9780321683915'
   isbn10:   '0321683919'
-  location: work
+  location: home
 - title:    Programming in CoffeeScript
   author:   Mark Bates
   isbn13:   '9780321820105'
   isbn10:   '032182010X'
-  location: checkedout-Jamal
+  location: home
+- title:    Learning JavaScript Design Patterns
+  author:   Addy Osmani
+  isbn13:   '9781449331818'
+  location: home
