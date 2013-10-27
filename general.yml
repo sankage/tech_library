@@ -18,3 +18,11 @@ books:
   author:   Nathan Yau
   isbn13:   '9780470944882'
   location: home
+- title:    Understanding Computation
+  author:   Tom Stuart
+  isbn13:   '9781449329273'
+  location: home
+- title:    Code
+  author:   Charles Petzold
+  isbn13:   '9780735611313'
+  location: home
