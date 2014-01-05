@@ -20,3 +20,15 @@ books:
 - title:  Code
   author: Charles Petzold
   isbn13: '9780735611313'
+- title:  Clean Code
+  author: Robert C. Martin
+  isbn13: '9780132350884'
+  isbn10: '0132350882'
+- title:  The Clean Coder
+  author: Robert C. Martin
+  isbn13: '9780137081073'
+  isbn10: '0137081073'
+- title:  The Nature of Code
+  author: Daniel Shiffman
+  isbn13: '9780985930806'
+  isbn10: '0985930802'
