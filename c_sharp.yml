@@ -1,8 +1,7 @@
 name:        C Sharp Books
 description: These are books that cover the C Sharp programming langauge
 books:
-- title:    Sams Teach Yourself Visual C Sharp 2008 in 24 Hours: Complete Starter Kit
-  author:   James Foxall
-  isbn13:   '9780672329906'
-  isbn10:   '0672329905'
-  location: work
+- title:  Sams Teach Yourself Visual C Sharp 2008 in 24 Hours: Complete Starter Kit
+  author: James Foxall
+  isbn13: '9780672329906'
+  isbn10: '0672329905'

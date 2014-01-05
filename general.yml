@@ -1,28 +1,22 @@
 name:        General Programming Books
 description: These are books that cover multiple languages and disciplines for programming.
 books:
-- title:    The Pragmatic Programmer
-  author:   [Andrew Hunt, David Thomas]
-  isbn13:   '9780201616224'
-  isbn10:   '020161622X'
-  location: home
-- title:    RESTful Web Services Cookbook
-  author:   Subbu Allamaraju
-  isbn13:   '9780596201687'
-  location: home
-- title:    Gamification by Design
-  author:   [Gabe Zichermann, Christopher Cunningham]
-  isbn13:   '9781449397678'
-  location: home
-- title:    Visualize This
-  author:   Nathan Yau
-  isbn13:   '9780470944882'
-  location: home
-- title:    Understanding Computation
-  author:   Tom Stuart
-  isbn13:   '9781449329273'
-  location: home
-- title:    Code
-  author:   Charles Petzold
-  isbn13:   '9780735611313'
-  location: home
+- title:  The Pragmatic Programmer
+  author: [Andrew Hunt, David Thomas]
+  isbn13: '9780201616224'
+  isbn10: '020161622X'
+- title:  RESTful Web Services Cookbook
+  author: Subbu Allamaraju
+  isbn13: '9780596201687'
+- title:  Gamification by Design
+  author: [Gabe Zichermann, Christopher Cunningham]
+  isbn13: '9781449397678'
+- title:  Visualize This
+  author: Nathan Yau
+  isbn13: '9780470944882'
+- title:  Understanding Computation
+  author: Tom Stuart
+  isbn13: '9781449329273'
+- title:  Code
+  author: Charles Petzold
+  isbn13: '9780735611313'

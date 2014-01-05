@@ -1,41 +1,33 @@
 name:        Ruby/Rails Books
 description: These are books about the Ruby Programming language and the Rails framework.
 books:
-- title:    The Rails 3 Way
-  author:   Obie Fernandez
-  isbn13:   '9780321601667'
-  isbn10:   '0321601661'
-  location: work
-- title:    The Ruby Programming Language
-  author:   [David Flanagan, Yukihiro Matsumoto]
-  isbn13:   '9780596516178'
-  location: home
-- title:    Eloquent Ruby
-  author:   Russ Olsen
-  isbn13:   '9780321584106'
-  isbn10:   '0321584104'
-  location: home
-- title:    Ruby on Rails 3 Tutorial
-  author:   Michael Hartl
-  edition:  1
-  isbn13:   '9780321743121'
-  isbn10:   '0321743121'
-  location: home
-- title:    The Rails View
-  author:   [John Athayde, Bruce Williams]
-  isbn13:   '9781934956876'
-  location: home
-- title:    The Cucumber Book
-  author:   [Matt Wynne, Aslak Hellesøy]
-  isbn13:   '9781934356807'
-  location: transit
-- title:    Rails Antipatterns
-  author:   [Chad Pytel, Tammer Saleh]
-  isbn13:   '9780321604811'
-  isbn10:   '0321604814'
-  location: work
-- title:    Practical Object-Oriented Design in Ruby
-  author:   Sandi Metz
-  isbn13:   '9780321721334'
-  isbn10:   '0321721330'
-  location: home
+- title:   The Rails 3 Way
+  author:  Obie Fernandez
+  isbn13:  '9780321601667'
+  isbn10:  '0321601661'
+- title:   The Ruby Programming Language
+  author:  [David Flanagan, Yukihiro Matsumoto]
+  isbn13:  '9780596516178'
+- title:   Eloquent Ruby
+  author:  Russ Olsen
+  isbn13:  '9780321584106'
+  isbn10:  '0321584104'
+- title:   Ruby on Rails 3 Tutorial
+  author:  Michael Hartl
+  edition: 1
+  isbn13:  '9780321743121'
+  isbn10:  '0321743121'
+- title:   The Rails View
+  author:  [John Athayde, Bruce Williams]
+  isbn13:  '9781934956876'
+- title:   The Cucumber Book
+  author:  [Matt Wynne, Aslak Hellesøy]
+  isbn13:  '9781934356807'
+- title:   Rails Antipatterns
+  author:  [Chad Pytel, Tammer Saleh]
+  isbn13:  '9780321604811'
+  isbn10:  '0321604814'
+- title:   Practical Object-Oriented Design in Ruby
+  author:  Sandi Metz
+  isbn13:  '9780321721334'
+  isbn10:  '0321721330'

@@ -1,19 +1,15 @@
 name:        Frontend Books
 description: These are books that deal with frontend development.
 books:
-- title:    High Performance Web Sites
-  author:   Steve Souders
-  isbn13:   '9780596529307'
-  location: home
-- title:    The Elements of Content Strategy
-  author:   Erin Kissane
-  isbn13:   '9780984442553'
-  location: home
-- title:    Responsive Web Design
-  author:   Ethan Marcotte
-  isbn13:   '9780984442577'
-  location: home
-- title:    Mobile First
-  author:   Luke Wroblewski
-  isbn13:   '9781937557027'
-  location: home
+- title:  High Performance Web Sites
+  author: Steve Souders
+  isbn13: '9780596529307'
+- title:  The Elements of Content Strategy
+  author: Erin Kissane
+  isbn13: '9780984442553'
+- title:  Responsive Web Design
+  author: Ethan Marcotte
+  isbn13: '9780984442577'
+- title:  Mobile First
+  author: Luke Wroblewski
+  isbn13: '9781937557027'

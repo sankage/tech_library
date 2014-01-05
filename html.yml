@@ -1,17 +1,14 @@
 name:        HTML Books
 description: These are books about HTML.
 books:
-- title:    HTML5 for Web Designers
-  author:   Jeremy Keith
-  isbn13:   '9780984442508'
-  location: home
-- title:    Introducing HTML5
-  edition:  1
-  isbn13:   '9780321687296'
-  isbn10:   '0321687299'
-  location: home
-- title:    Introducing HTML5
-  edition:  2
-  isbn13:   '9780321784421'
-  isbn10:   '0321784421'
-  location: home
+- title:   HTML5 for Web Designers
+  author:  Jeremy Keith
+  isbn13:  '9780984442508'
+- title:   Introducing HTML5
+  edition: 1
+  isbn13:  '9780321687296'
+  isbn10:  '0321687299'
+- title:   Introducing HTML5
+  edition: 2
+  isbn13:  '9780321784421'
+  isbn10:  '0321784421'

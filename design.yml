@@ -1,11 +1,9 @@
 name:        Design Books
 description: These are books about design.
 books:
-- title:    Designing for Emotion
-  author:   Aarron Walter
-  isbn13:   '9781937557003'
-  location: home
-- title:    Design is a Job
-  author:   Mike Monteiro
-  isbn13:   '9781937557041'
-  location: home
+- title:  Designing for Emotion
+  author: Aarron Walter
+  isbn13: '9781937557003'
+- title:  Design is a Job
+  author: Mike Monteiro
+  isbn13: '9781937557041'

@@ -1,11 +1,9 @@
 name:        Algorithm Books
 description: These are books dealing with algorithms and their specific uses.
 books:
-- title:    Machine Learning in Action
-  author:   Peter Harrington
-  isbn13:   '9781617290183'
-  location: work
-- title:    Algorithms in a Nutshell
-  author:   [George T. Heineman, Gary Pollice, Stanley Selkow]
-  isbn13:   '9780596516246'
-  location: work
+- title:  Machine Learning in Action
+  author: Peter Harrington
+  isbn13: '9781617290183'
+- title:  Algorithms in a Nutshell
+  author: [George T. Heineman, Gary Pollice, Stanley Selkow]
+  isbn13: '9780596516246'
